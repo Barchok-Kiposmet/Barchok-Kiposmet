@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Barchok-Kiposmet
-- 👀 I’m interested in learning how to code
+- 👋 Hi, I’m Patrick Barchok Kiposmet
 - 🌱 I’m currently learning Devops and SRE
 - 💞️ I’m looking to collaborate on such topics as relating to the aforementioned
 - 📫 How to reach me on barchokpatrick@gmail.com
