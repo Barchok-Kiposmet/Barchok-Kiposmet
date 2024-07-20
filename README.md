@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Patrick Barchok Kiposmet
-- 🌱 I’m currently learning Devops and SRE
-- 💞️ I’m looking to collaborate on such topics as relating to the aforementioned
-- 📫 How to reach me on barchokpatrick@gmail.com
+- 👋 I’m Patrick Barchok Kiposmet
+- 🌱 I'm a tech Delivery Lead, DevOps Engineer
+- 📫 Reach me on barchokpatrick@gmail.com
 
 <!---
 Barchok-Kiposmet/Barchok-Kiposmet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
